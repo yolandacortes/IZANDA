@@ -1,0 +1,44 @@
+body{background-color: grey; /*background: url("fotos/fondo.gif")*/}
+
+.container
+{border-radius:15px;
+background:white;
+width: 95%;
+margin:auto;}
+
+.menu
+{float:right;}
+
+.menu li
+{display: inline-block;
+margin-right: 15px}
+
+.menu a:hover
+{color: black;
+background: pink;
+padding: 5px;}
+
+.header img
+{width: 200px;}
+
+.slider img
+{width:1250px;}
+
+.row
+{text-align: center;}
+.col
+{display: inline-block;
+width: 30%;}
+
+.col h2
+{text-decoration: underline;}
+
+.top
+{
+	
+}
+
+.footer
+{padding: 5px; overflow: hidden;
+	
+}
